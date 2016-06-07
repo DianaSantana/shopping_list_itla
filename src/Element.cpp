@@ -2,7 +2,7 @@
  * Element.cpp
  *
  *  Created on: May 22, 2016
- *      Author: raydelto
+ *      Author: Diana
  */
 
 #include "Element.h"
